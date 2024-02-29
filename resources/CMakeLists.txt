@@ -1,0 +1,8 @@
+﻿configure_file ("cheese.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("door.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("gift.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("key.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("cat.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("mouse.png" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("wall.jpg" ${CMAKE_BINARY_DIR} COPYONLY)
+configure_file ("BN Machine.ttf" ${CMAKE_BINARY_DIR} COPYONLY)
